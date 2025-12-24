@@ -1,166 +1,153 @@
-🏋️ Fitness Tracking Portal (Website)
+# 🏋️ Fitness Tracking Portal (Website)
 
 A comprehensive web-based platform designed to help users monitor, manage, and improve their fitness and overall health through workout tracking, goal setting, and nutrition recommendations.
 
-📌 Project Details
+---
 
-Project Duration:
-📅 17-05-2023 to 17-08-2023
+## 📌 Project Details
 
-Organization:
-🏢 Virtusa Consulting Services
+**Project Duration:**  
+📅 17-05-2023 to 17-08-2023  
 
-Mentor:
-👨‍🏫 Mr. Subbarao Kari
-Lead Consultant – Learning and Campus
+**Organization:**  
+🏢 Virtusa Consulting Services  
+
+**Mentor:**  
+👨‍🏫 Mr. Subbarao Kari  
+Lead Consultant – Learning and Campus  
+
+---
 
 ## 📖 Abstract
 
-The Fitness Tracking Portal is a web-based application developed to assist individuals in achieving a healthier lifestyle. It provides tools to track workouts, monitor progress, plan exercises, and receive nutrition recommendations.
+The **Fitness Tracking Portal** is a web-based application developed to assist individuals in achieving a healthier lifestyle. It provides tools to track workouts, monitor progress, plan exercises, and receive nutrition recommendations.
 
 Users can create personalized profiles containing information such as age, height, weight, and fitness goals. The platform enables users to track metrics like duration, calories burned, and workout history while offering visual insights to stay motivated.
 
+---
+
 ## 🎯 Objectives
 
-Track fitness activities such as workouts and exercises
+- Track fitness activities such as workouts and exercises  
+- Enable goal setting and progress visualization  
+- Provide workout planning and customization  
+- Offer nutrition tracking and dietary recommendations  
+- Improve user motivation through analytics and insights  
 
-Enable goal setting and progress visualization
-
-Provide workout planning and customization
-
-Offer nutrition tracking and dietary recommendations
-
-Improve user motivation through analytics and insights
+---
 
 ## 🛠 Project Management Approach
-Software Process Model
 
-This project follows the Waterfall Model, ensuring a structured and sequential development process.
+### Software Process Model
 
-Waterfall Phases:
+This project follows the **Waterfall Model**, ensuring a structured and sequential development process.
 
-Requirement Analysis
+### Waterfall Phases
+- Requirement Analysis  
+- System Design  
+- Implementation  
+- System Testing  
+- System Deployment  
+- System Maintenance  
 
-System Design
-
-Implementation
-
-System Testing
-
-System Deployment
-
-System Maintenance
-
-## 📊 Waterfall Model Diagram
+### 📊 Waterfall Model Diagram
 ![Waterfall Model](images/waterfall-model.jpg)
 
+---
+
 ## 📋 Requirement Analysis
-Software Requirements Specification (SRS)
 
-Project Name: Fitness Tracking Portal
-Version: 1.0
-Date: 17-05-2023
+### Software Requirements Specification (SRS)
 
-Hardware Requirements
+- **Project Name:** Fitness Tracking Portal  
+- **Version:** 1.0  
+- **Date:** 17-05-2023  
 
-Processor: Intel Core i3
+### Hardware Requirements
+- **Processor:** Intel Core i3  
+- **RAM:** 4 GB  
+- **Storage:** 128 GB  
+- **Operating System:** Windows / macOS  
 
-RAM: 4 GB
+---
 
-Storage: 128 GB
+## 🧩 System Design
 
-OS: Windows / macOS
-
-🧩 System Design
-## 📘 Class Diagram
+### 📘 Class Diagram
 ![Class Diagram](images/class-diagram.jpg)
-## 📙 Use Case Diagram
+
+### 📙 Use Case Diagram
 ![Use Case Diagram](images/use-case-diagram.jpg)
-⚙️ Implementation
-Technologies Used
-Frontend
 
-HTML
+---
 
-CSS
+## ⚙️ Implementation
 
-TypeScript
+### Technologies Used
 
-Angular
+#### Frontend
+- HTML  
+- CSS  
+- TypeScript  
+- Angular  
 
-Backend
+#### Backend
+- Spring Boot  
+- Maven  
 
-Spring Boot
-
-Maven
-
-Angular
-
+### Angular
 Angular is a powerful open-source framework developed by Google for building scalable single-page applications (SPAs). It uses TypeScript, enabling strong typing, better tooling, and maintainable code.
 
-Spring Boot & Maven
-
+### Spring Boot & Maven
 Spring Boot simplifies enterprise Java development by providing auto-configuration and embedded servers. Maven is used for dependency management, build automation, and packaging applications.
 
-🖥 User Interface Modules
-1. Login / Registration
+---
 
-Secure authentication
+## 🖥 User Interface Modules
 
-Input validation
+### 1. Login / Registration
+- Secure authentication  
+- Input validation  
+- Password recovery support  
 
-Password recovery support
+### 2. Dashboard
+- Overview of workouts and goals  
+- Progress charts and summaries  
 
-2. Dashboard
+### 3. Workout History
+- View past workouts  
+- Analyze trends and performance  
 
-Overview of workouts and goals
+### 4. Exercise Tracking
+- Exercise library with descriptions  
+- Categorized by muscle groups  
 
-Progress charts and summaries
+### 5. Goal Setting
+- Define fitness objectives  
+- Visual progress tracking  
 
-3. Workout History
+### 6. Workout Plan Creator
+- Create personalized workout schedules  
+- Set intensity and duration  
 
-View past workouts
+### 7. Nutrition Recommendations
+- Macronutrient targets  
+- Calorie and diet guidance  
 
-Analyze trends and performance
+---
 
-4. Exercise Tracking
+## 🔍 Scope of the Project
 
-Exercise library with descriptions
+- User registration and profile management  
+- Activity and workout tracking  
+- Goal setting and progress analysis  
+- Custom workout planning  
+- Nutrition tracking and recommendations  
 
-Categorized by muscle groups
+---
 
-5. Goal Setting
+## ✅ Conclusion
 
-Define fitness objectives
-
-Visual progress tracking
-
-6. Workout Plan Creator
-
-Create personalized workout schedules
-
-Set intensity and duration
-
-7. Nutrition Recommendations
-
-Macronutrient targets
-
-Calorie and diet guidance
-
-🔍 Scope of the Project
-
-User registration and profile management
-
-Activity and workout tracking
-
-Goal setting and progress analysis
-
-Custom workout planning
-
-Nutrition tracking and recommendations
-
-✅ Conclusion
-
-The Fitness Tracking Portal delivers a complete solution for individuals aiming to improve their health and fitness. By combining workout tracking, goal management, nutrition insights, and performance analytics, the platform empowers users to make informed decisions and stay motivated.
+The **Fitness Tracking Portal** delivers a complete solution for individuals aiming to improve their health and fitness. By combining workout tracking, goal management, nutrition insights, and performance analytics, the platform empowers users to make informed decisions and stay motivated.
 
 This project successfully demonstrates the integration of modern web technologies with structured software engineering practices to create a scalable and user-friendly fitness application.
