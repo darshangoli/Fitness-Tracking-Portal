@@ -14,33 +14,13 @@ Mentor:
 👨‍🏫 Mr. Subbarao Kari
 Lead Consultant – Learning and Campus
 
-👨‍💻 Team Members
-
-Prakash Kumar
-
-Bharathe G
-
-Vivek Verma
-
-Sri Sanjana K
-
-Darshan Goli
-
-Kiran Kumar Reddy
-
-Suriya Ganesh V
-
-Agalya V
-
-Mathu Shree P
-
-📖 Abstract
+## 📖 Abstract
 
 The Fitness Tracking Portal is a web-based application developed to assist individuals in achieving a healthier lifestyle. It provides tools to track workouts, monitor progress, plan exercises, and receive nutrition recommendations.
 
 Users can create personalized profiles containing information such as age, height, weight, and fitness goals. The platform enables users to track metrics like duration, calories burned, and workout history while offering visual insights to stay motivated.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Track fitness activities such as workouts and exercises
 
@@ -52,7 +32,7 @@ Offer nutrition tracking and dietary recommendations
 
 Improve user motivation through analytics and insights
 
-🛠 Project Management Approach
+## 🛠 Project Management Approach
 Software Process Model
 
 This project follows the Waterfall Model, ensuring a structured and sequential development process.
@@ -72,9 +52,9 @@ System Deployment
 System Maintenance
 
 ## 📊 Waterfall Model Diagram
-![Waterfall Model](images/waterfall-model.png)
+![Waterfall Model](images/waterfall-model.jpg)
 
-📋 Requirement Analysis
+## 📋 Requirement Analysis
 Software Requirements Specification (SRS)
 
 Project Name: Fitness Tracking Portal
@@ -93,9 +73,9 @@ OS: Windows / macOS
 
 🧩 System Design
 ## 📘 Class Diagram
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](images/class-diagram.jpg)
 ## 📙 Use Case Diagram
-![Use Case Diagram](images/use-case-diagram.png)
+![Use Case Diagram](images/use-case-diagram.jpg)
 ⚙️ Implementation
 Technologies Used
 Frontend
