@@ -1,6 +1,4 @@
-# 🏋️ Fitness Tracking Portal (Website)
-
-
+# 🏋️ Fitness Tracking Portal
 
 A comprehensive web-based platform designed to help users monitor, manage, and improve their fitness and overall health through workout tracking, goal setting, and nutrition recommendations.
 
