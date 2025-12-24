@@ -1,6 +1,6 @@
 # 🏋️ Fitness Tracking Portal (Website)
 
-https://sonarcloud.io/summary/overall?id=examly-test_b88f3498-d03a-4a54-a8e1-1ea4695e9611
+
 
 A comprehensive web-based platform designed to help users monitor, manage, and improve their fitness and overall health through workout tracking, goal setting, and nutrition recommendations.
 
